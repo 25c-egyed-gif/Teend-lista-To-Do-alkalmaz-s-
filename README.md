@@ -5,7 +5,7 @@
 ## Készítők
 
 ## Cél
-
+Készítsünk egy olyan alkalmazást amiben tudjuk vezetni a napi teendőinket.
 ## Indítás
 Az index.html megnyitása böngészőben.
 
@@ -14,7 +14,7 @@ Az index.html megnyitása böngészőben.
 ## Tesztelés
 
 ## Feladatmegosztás
-
+Norman - GitHub kezelés, 
 ## Források és átvett részek
 
 ## Ismert hibák
