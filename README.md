@@ -1,1 +1,1 @@
-# Teend-lista-To-Do-alkalmaz-s-
+# Teend-lista-To-Do-alkalmazas-
