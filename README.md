@@ -32,7 +32,7 @@ Kézzel teszteltük Chrome-ban és Edge-ben:
 
 ## Feladatmegosztás
 Norman - GitHub kezelés, JavaScript, BootStrap
-Bálint - HTML, Kommitolás
+Bálint - HTML, Kommitolás CSS
 
 ## Források és átvett részek
 - Bootstrap 5.3.3 (CDN-ről betöltve): https://getbootstrap.com
